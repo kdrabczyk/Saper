@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfo.cs
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net8.0\Saper.csproj.CoreCompileInputs.cache
